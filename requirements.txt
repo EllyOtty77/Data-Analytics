@@ -7,3 +7,4 @@ pyodbc
 notebook
 sqlite3
 openpyxl
+matplotlib
