@@ -5,6 +5,15 @@ bs4
 lxml
 pyodbc
 notebook
-sqlite3
+pandoc
 openpyxl
 matplotlib
+Seaborn
+plotly
+TensorFlow
+Scikit-learn
+scipy
+statsmodels
+NLTK
+nbconvert
+pyppeteer
