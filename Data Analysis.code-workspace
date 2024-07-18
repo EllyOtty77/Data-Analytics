@@ -4,5 +4,16 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"database": "${workspaceFolder:mydata_analytics}/sql/sql_tutorialdb.db",
+				"name": "sql_tutorial"
+			}
+		],
+		"sqltools.useNodeRuntime": true,
+		"git.ignoreLimitWarning": true
+	}
 }
