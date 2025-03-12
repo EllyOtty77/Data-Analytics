@@ -1,0 +1,21 @@
+ID,Name,Age,Salary,Joining_Date,Department,Email
+101,Alice ,25.0,50000,2021-07-15,HR,alice@example.com
+102,BOB,,sixty thousand,06/12/2021,ENGINEERING ,BOB@EXAMPLE.COM
+103,Charlie,30.0,,10 May 2021, HR,charlie@example
+104,,22.0,45000,15-08-2020,Sales,
+105,Eve,28.0,52000,2021-09-01,Marketing,eve@example.com
+106,Frank,150.0,600000,2022-01-12,Finance,frank@example.com
+107,George,26.0,47000,12-25-2020,IT,george @ example . com
+108,Hannah,23.0,43000,07-03-2022,Operations,hannah@example.com
+109,Ivy,120.0,NaN,2022-10-11,legal,
+103,Charlie,30.0,50000,10 May 2021, HR,charlie@example
+110,John,,80000,2021-07-30,Engineering,john@EXAMPLE.COM
+111,Keira,29.0,43000,2020-06-10,R&D,keira@example
+112,Luke,25.0,27000,2019-11-15,HR,luke@example.com
+113,Mia,27.0,,"March 5, 2021",Product,MIA@EXAMPLE.COM
+114,Nathan,,1000000,2023-08-25,Marketing,nathan@example.com
+115,Olivia,45.0,54000,01-14-2019,Finance,olivia@example.com
+116,Peter,99.0,38000,2024-02-28,IT,peter@example.com
+117,Quincy,31.0,45000,2021-07-04,Operations,quincy@example.com
+118,Riley,34.0,50000,2020-09-09,Legal,riley@example.com
+119,,22.0,30000,11-06-2022,Support,support@company.com
